@@ -1,7 +1,7 @@
 
 # Selenium Framework Automation using Java and Cucumber BDD
 
-> This is a project area for the Udemy course: 
+> This is a project area for the Udemy course: Selenium WebDriver - Java, Cucumber BDD & more
 
 ## Udemy course link
 https://www.udemy.com/cucumber-bdd-selenium-java-complete-automation-course
@@ -14,7 +14,7 @@ This course will teach you automation testing using Selenium Webdriver, Java, Cu
 
 ## GitHub contents
 
-  * Basic: Basic framework for stackoverflow.com; Login page automated
+  * Basic: Basic framework for https://www.stackoverflow.com; Login page automated
 
-  * Advanced: Advanced framework for webdriveruniversity.com; multiple pages/sections automated 
+  * Advanced: Advanced framework for https://www.webdriveruniversity.com; multiple pages/sections automated 
 
